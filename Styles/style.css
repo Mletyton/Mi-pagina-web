@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: lightskyblue url(../assets/images/fondo1.jpg);
+	background-size: cover;
+}
+
+main{
+	background: white;
+	width: 800px;
+	border-radius: 15px;
+	margin: 20px auto;
+	padding: 20px;
+	box-shadow: 5px 5px 10px purple;
+}
+
+h1{
+	color:purple;
+	font-size: 50px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Tahoma, sans-serif, Courier, monospace;
+}
+
+img{
+	width: 200px;
+	/* height: 300px; */
+}
+
+p{
+	text-align: justify;
+}
+
+span{
+	color: purple;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration:overline;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+	border: 1px solid purple;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 10px;
+}
+
+a:hover{
+	background: purple;
+	color: #FFF;
+}
+
+section{
+	margin: 20px 0 0 0;
+}
+
+nav{
+	margin: 20px 0;
+}
+
+footer{
+	text-align: center;
+	background-color: purple;
+	color: #FFF;
+	padding: 20px;
+}
+
+div{
+	text-align: center;
+}
+h2 {
+	color: purple;
+}
